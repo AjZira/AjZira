@@ -24,7 +24,7 @@ Je préfère avancer par petits pas qui tiennent debout : un changement relu vau
 
 ### Me trouver
 
-Je raconte ce que je construis et ce que j'apprends sur [LinkedIn](https://www.linkedin.com/in/abdeldjalil-ziraoui). Le reste est sur [abdeldjalil.ziraoui.dev](https://abdeldjalil.ziraoui.dev/), et on peut m'écrire à abdeldjalil.ziraoui@gmail.com.
+Je raconte ce que je construis et ce que j'apprends sur [LinkedIn](https://www.linkedin.com/in/abdeldjalil-ziraoui-61a371185/). Le reste est sur [abdeldjalil.ziraoui.dev](https://abdeldjalil.ziraoui.dev/), et on peut m'écrire à abdeldjalil.ziraoui@gmail.com.
 
 <details>
 <summary><strong>In English</strong></summary>
@@ -40,6 +40,6 @@ What I'm working on: **Diapason** (spec, tickets and code kept in tune, with Cla
 
 > "When you have no time to do things well, you will have time to do them again."
 
-[LinkedIn](https://www.linkedin.com/in/abdeldjalil-ziraoui) · [abdeldjalil.ziraoui.dev](https://abdeldjalil.ziraoui.dev/?lang=en) · abdeldjalil.ziraoui@gmail.com
+[LinkedIn](https://www.linkedin.com/in/abdeldjalil-ziraoui-61a371185/) · [abdeldjalil.ziraoui.dev](https://abdeldjalil.ziraoui.dev/?lang=en) · abdeldjalil.ziraoui@gmail.com
 
 </details>
